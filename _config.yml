@@ -5,16 +5,16 @@ description: |
   HELP SECURE A PERSON’S LAPTOP
 owner: OWASP 
 first_published: 2019 
-email: your-email@domain.com
+email: "your-email@domain.com"
 baseurl: "" 
 url: "http://yourdomain.com" 
 # https://jishnurippon.github.io/securetea-web/
 social:
-  # twitter: https://twitter.com/<username>
-  # github: https://github.com/<username>
-  # linkedin-square: https://linkedin.com/in/<username>
-  # facebook-official: https://facebook.com/<username>
-  # google-plus-square: https://plus.google.com/u/0/+<username>
+  twitter: https://twitter.com/<username>
+  github: https://github.com/<username>
+  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
